@@ -1,0 +1,13 @@
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\bin\Debug\netcoreapp3.1\calcDemo.exe
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\bin\Debug\netcoreapp3.1\calcDemo.deps.json
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\bin\Debug\netcoreapp3.1\calcDemo.runtimeconfig.json
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\bin\Debug\netcoreapp3.1\calcDemo.runtimeconfig.dev.json
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\bin\Debug\netcoreapp3.1\calcDemo.dll
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\bin\Debug\netcoreapp3.1\calcDemo.pdb
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.AssemblyInfoInputs.cache
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.AssemblyInfo.cs
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.dll
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.pdb
+C:\Users\Bishal Pradhan\source\repos\calcDemo\calcDemo\obj\Debug\netcoreapp3.1\calcDemo.genruntimeconfig.cache

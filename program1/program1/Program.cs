@@ -6,7 +6,14 @@ namespace program1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //
+            //ReplaceString replace = new ReplaceString();
+            // replace. ReadInput();
+            // Console.Read();
+            FlipCoin flip = new FlipCoin();
+            flip.ReadInput();
+            Console.Read();
+                
         }
     }
 }

@@ -10,10 +10,13 @@ namespace program1
             //ReplaceString replace = new ReplaceString();
             // replace. ReadInput();
             // Console.Read();
-            FlipCoin flip = new FlipCoin();
-            flip.ReadInput();
+            //FlipCoin flip = new FlipCoin();
+            //flip.ReadInput();
+            //Console.Read();
+            //HarmonicProblem.ReadHarmonicNumber();
+            MultiDimentional.ReadMultiArray();
             Console.Read();
-                
+
         }
     }
 }

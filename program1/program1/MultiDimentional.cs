@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace program1
+{
+    class MultiDimentional
+    {
+        public static void ReadMultiArray()
+        {
+            Object[][] array = new object[4][];
+            array[0] = new object[4];//integer
+            array[1] = new object[4];//boolean
+            array[2] = new object[4];//string
+            array[3] = new object[4];//double
+
+            Console.WriteLine("Enter integer array of 4 element");
+            for (int i = 0; i < 4; i++)
+            {
+                array[0][i] = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.WriteLine("Enter boolean array of 4 element");
+            for (int i = 0; i < 4; i++)
+            {
+                array[1][i] = Convert.ToBoolean(Console.ReadLine());
+            }
+            Console.WriteLine("Enter string array of 4 element");
+            for (int i = 0; i < 4; i++)
+            {
+                array[2][i] = Convert.ToString(Console.ReadLine());
+            }
+            Console.WriteLine("Enter double array of 4 element");
+            for (int i = 0; i < 4; i++)
+            {
+                array[3][i] = Convert.ToDouble(Console.ReadLine());
+            }
+            //iterating over the object array
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < array[i].Length; j++)
+                {
+                    Console.Write(array[i][j]+"");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}

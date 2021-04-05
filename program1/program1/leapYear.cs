@@ -6,7 +6,7 @@ namespace program1
 {
     class leapYear
     {
-        public void Main(string [] args)
+        public static void ReadleapYear()
         {
             Console.WriteLine("Enter Year : ");
             int Year = int.Parse(Console.ReadLine());

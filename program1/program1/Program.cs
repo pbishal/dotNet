@@ -14,7 +14,17 @@ namespace program1
             //flip.ReadInput();
             //Console.Read();
             //HarmonicProblem.ReadHarmonicNumber();
-            MultiDimentional.ReadMultiArray();
+            //MultiDimentional.ReadMultiArray();
+            //leapYear.ReadleapYear();
+            //Factorial.ReadFactorial();
+            //Distance.ReadDistance();
+            //SumOfTriplets.FindTriplets();
+            //Gambler.ReadStakeAmountAndGoal();
+            //Quadratic.ReadQuadratic();
+            //WindChill.ReadWindChill();
+            //Coupons.ReadNumberOfCoupons();
+            //VendingMachine.ReadAmountOfIndChange();
+            Qn1StopWatch.ReadStopWatch();
             Console.Read();
 
         }
